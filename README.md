@@ -38,11 +38,21 @@ This is a Spring Boot REST API project created as part of my internship at Bajaj
 
 ## Postman Output
 
-Add a screenshot of your Postman output below:
+EXAMPLE A
+<img width="858" height="881" alt="image" src="https://github.com/user-attachments/assets/e2c83a02-866c-4db4-8881-51ac3ce03ad7" />
 
-![Postman Output](screenshots/postman_output.png)
+EXAMPLE B
+<img width="825" height="889" alt="image" src="https://github.com/user-attachments/assets/773acbb3-cd4f-4cfe-a5db-f327022f6116" />
 
-> Place your screenshot in the `screenshots` folder with the filename `postman_output.png`.
+EXAMPLE C
+<img width="533" height="771" alt="image" src="https://github.com/user-attachments/assets/0b8373f4-52a7-4c6b-bc9a-e0a736acaf10" />
+
+
+
+
+
+
+
 
 ## License
 
